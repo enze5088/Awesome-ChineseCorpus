@@ -1,0 +1,8 @@
+*.tsv
+*.csv
+*.txt
+*.zip
+*.png
+*.pyc
+.idea
+
